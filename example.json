@@ -15,7 +15,7 @@
     "key": "光速",
     "name": "光速",
     "type": 3,
-    "api": "爬虫所在位置/光速.py",
+    "api": "plugin/app/光速.py",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1

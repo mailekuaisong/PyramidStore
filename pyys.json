@@ -1,4 +1,6 @@
-[
+[{
+	"spider":"./pg.jar",
+	"sites":[
  {
     "key": "py_appV2",
     "name": "☪️4K(PY)☪️",

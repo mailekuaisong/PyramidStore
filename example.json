@@ -1,23 +1,225 @@
 [
-  {
-    "key": "金牌",
-    "name": "金牌",
+ {
+    "key": "py_appV2",
+    "name": "☪️4K(PY)☪️",
     "type": 3,
-    "api": "爬虫所在位置/金牌.py",
+    "api": "./PyramidStore/plugin/app/APPV2.py",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-    "ext": {
-      "site": "域名1,域名2,域名3......"
-    }
+    "ext": "http://cmsyt.lyyytv.cn"
   },
-  {
-    "key": "光速",
-    "name": "光速",
+ {
+    "key": "皮皮虾APP",
+    "name": "☪️皮皮虾(PY)☪️",
     "type": 3,
-    "api": "plugin/app/光速.py",
+    "api": "./PyramidStore/plugin/app/皮皮虾APP.py",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1
-  }
+ },
+  {
+    "key": "CliCli动漫APP",
+    "name": "☪️CliCli动漫(PY)☪️",
+    "type": 3,
+    "api": "./PyramidStore/plugin/app/CliCli动漫APP.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+ },
+   {
+    "key": "MiFunAPP",
+    "name": "☪️MiFun(PY)☪️",
+    "type": 3,
+    "api": "./PyramidStore/plugin/app/MiFunAPP.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+ },
+   {
+    "key": "hitvAPP",
+    "name": "☪️hitv(PY)☪️",
+    "type": 3,
+    "api": "./PyramidStore/plugin/app/hitvAPP.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+ },
+   {
+    "key": "三号动漫APP",
+    "name": "☪️三号动漫(PY)☪️",
+    "type": 3,
+    "api": "./PyramidStore/plugin/app/三号动漫APP.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+ },
+   {
+    "key": "云端APP",
+    "name": "☪️云端(PY)☪️",
+    "type": 3,
+    "api": "./PyramidStore/plugin/app/云端APP.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+ },
+   {
+    "key": "云速影视APP",
+    "name": "☪️云速影视(PY)☪️",
+    "type": 3,
+    "api": "./PyramidStore/plugin/app/云速影视APP.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+ },
+   {
+    "key": "光速APP",
+    "name": "☪️光速(PY)☪️",
+    "type": 3,
+    "api": "./PyramidStore/plugin/app/光速APP.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+ },
+   {
+    "key": "剧多短剧APP",
+    "name": "☪️剧多短剧(PY)☪️",
+    "type": 3,
+    "api": "./PyramidStore/plugin/app/剧多短剧APP.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+ },
+   {
+    "key": "哇哇APP",
+    "name": "☪️哇哇(PY)☪️",
+    "type": 3,
+    "api": "./PyramidStore/plugin/app/哇哇APP.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+ },
+   {
+    "key": "小苹果APP",
+    "name": "☪️小苹果(PY)☪️",
+    "type": 3,
+    "api": "./PyramidStore/plugin/app/小苹果APP.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+ },
+   {
+    "key": "恋鱼影视APP",
+    "name": "☪️恋鱼影视(PY)☪️",
+    "type": 3,
+    "api": "./PyramidStore/plugin/app/恋鱼影视APP.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+ },
+   {
+    "key": "悠悠APP",
+    "name": "☪️悠悠(PY)☪️",
+    "type": 3,
+    "api": "./PyramidStore/plugin/app/悠悠APP.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+ },
+   {
+    "key": "火车太顺APP",
+    "name": "☪️火车太顺(PY)☪️",
+    "type": 3,
+    "api": "./PyramidStore/plugin/app/火车太顺APP.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+ }, {
+    "key": "爱瓜TVAPP",
+    "name": "☪️爱瓜TV(PY)☪️",
+    "type": 3,
+    "api": "./PyramidStore/plugin/app/爱瓜TVAPP.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+ }, {
+    "key": "皮皮虾APP",
+    "name": "☪️皮皮虾(PY)☪️",
+    "type": 3,
+    "api": "./PyramidStore/plugin/app/皮皮虾APP.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+ }, {
+    "key": "美帕APP",
+    "name": "☪️美帕(PY)☪️",
+    "type": 3,
+    "api": "./PyramidStore/plugin/app/美帕APP.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+ },
+  {
+    "key": "胖虎APP",
+    "name": "☪️胖虎(PY)☪️",
+    "type": 3,
+    "api": "./PyramidStore/plugin/app/胖虎APP.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+ }, 
+  {
+    "key": "若惜追剧APP",
+    "name": "☪️若惜追剧(PY)☪️",
+    "type": 3,
+    "api": "./PyramidStore/plugin/app/若惜追剧APP.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+ }, 
+  {
+    "key": "视觉APP",
+    "name": "☪️视觉(PY)☪️",
+    "type": 3,
+    "api": "./PyramidStore/plugin/app/视觉APP.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+ },
+  {
+    "key": "边缘影视APP",
+    "name": "☪️边缘影视(PY)☪️",
+    "type": 3,
+    "api": "./PyramidStore/plugin/app/边缘影视APP.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+ },
+  {
+    "key": "魔方影视APP",
+    "name": "☪️魔方影视(PY)☪️",
+    "type": 3,
+    "api": "./PyramidStore/plugin/app/魔方影视APP.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+ }, 
+  {
+    "key": "悠悠APP",
+    "name": "☪️悠悠(PY)☪️",
+    "type": 3,
+    "api": "./PyramidStore/plugin/app/悠悠APP.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+ },
+  {
+    "key": "悠悠APP",
+    "name": "☪️悠悠(PY)☪️",
+    "type": 3,
+    "api": "./PyramidStore/plugin/app/悠悠APP.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+ },
 ]

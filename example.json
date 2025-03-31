@@ -205,21 +205,194 @@
     "filterable": 1
  }, 
   {
-    "key": "悠悠APP",
-    "name": "☪️悠悠(PY)☪️",
+    "key": "LIVES",
+    "name": "☪️LIVES(PY)☪️",
     "type": 3,
-    "api": "./PyramidStore/plugin/app/悠悠APP.py",
+    "api": "./PyramidStore/plugin/html/LIVES.py",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1
  },
   {
-    "key": "悠悠APP",
-    "name": "☪️悠悠(PY)☪️",
+    "key": "LREEOK",
+    "name": "☪️LREEOK(PY)☪️",
     "type": 3,
-    "api": "./PyramidStore/plugin/app/悠悠APP.py",
+    "api": "./PyramidStore/plugin/html/LREEOK.py",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1
  },
+  {
+    "key": "甜圈短剧",
+    "name": "☪️甜圈短剧(PY)☪️",
+    "type": 3,
+    "api": "./PyramidStore/plugin/html/甜圈短剧py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+ },
+ {
+    "key": "红果网页",
+    "name": "☪️红果网页(PY)☪️",
+    "type": 3,
+    "api": "./PyramidStore/plugin/html/红果网页.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+ },
+  {
+    "key": "绝对影视",
+    "name": "☪️绝对影视(PY)☪️",
+    "type": 3,
+    "api": "./PyramidStore/plugin/html/绝对影视.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+ },
+  {
+    "key": "金牌",
+    "name": "☪️金牌(PY)☪️",
+    "type": 3,
+    "api": "./PyramidStore/plugin/html/金牌.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+ },
+  {
+    "key": "优",
+    "name": "☪️优酷(官)☪️",
+    "type": 3,
+    "api": "./PyramidStore/plugin/official/优.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+ },
+ {
+    "key": "爱",
+    "name": "☪️爱奇艺(官)☪️",
+    "type": 3,
+    "api": "./PyramidStore/plugin/official/爱.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+ },
+ {
+    "key": "腾",
+    "name": "☪️腾讯(官)☪️",
+    "type": 3,
+    "api": "./PyramidStore/plugin/official/腾.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+ },
+ {
+    "key": "芒",
+    "name": "☪️芒果(官)☪️",
+    "type": 3,
+    "api": "./PyramidStore/plugin/official/芒.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+ },
+ 
+ {
+    "key": "51吸瓜",
+    "name": "🔞51吸瓜(PY)",
+    "type": 3,
+    "api": "./PyramidStore/plugin/adult/51吸瓜.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+ }, 
+ {
+    "key": "Phb",
+    "name": "🔞Phb(PY)",
+    "type": 3,
+    "api": "./PyramidStore/plugin/adult/Phb.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+ },
+ 
+ {
+    "key": "悠悠APP",
+    "name": "🔞悠悠(PY)",
+    "type": 3,
+    "api": "./PyramidStore/plugin/adult/悠悠APP.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+ },
+ {
+    "key": "Xhm",
+    "name": "🔞Xhm(PY)",
+    "type": 3,
+    "api": "./PyramidStore/plugin/adult/Xhm.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+ },
+ {
+    "key": "Xvd",
+    "name": "🔞Xvd(PY)",
+    "type": 3,
+    "api": "./PyramidStore/plugin/adult/Xvd.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+ },
+ {
+    "key": "lavAPP",
+    "name": "🔞LAV(PY)",
+    "type": 3,
+    "api": "./PyramidStore/plugin/adult/lavAPP.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+ },
+ {
+    "key": "小红薯",
+    "name": "🔞小红薯(PY)",
+    "type": 3,
+    "api": "./PyramidStore/plugin/adult/小红薯.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+ },
+ {
+    "key": "推特APP",
+    "name": "🔞推特(PY)",
+    "type": 3,
+    "api": "./PyramidStore/plugin/adult/推特APP.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+ },
+ {
+    "key": "浴火社APP",
+    "name": "🔞浴火社(PY)",
+    "type": 3,
+    "api": "./PyramidStore/plugin/adult/浴火社APP.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+ },
+ {
+    "key": "花都",
+    "name": "🔞花都(PY)",
+    "type": 3,
+    "api": "./PyramidStore/plugin/adult/花都.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+ },
+ {
+    "key": "香蕉APP",
+    "name": "🔞香蕉(PY)",
+    "type": 3,
+    "api": "./PyramidStore/plugin/adult/香蕉APP.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+ }
 ]
